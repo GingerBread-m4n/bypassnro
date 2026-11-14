@@ -3,7 +3,7 @@
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L -o skip.cmd https://raw.githubusercontent.com/JuanNavarroQA/bypassnro/main/bypass.cmd
+curl -L -o skip.cmd https://raw.githubusercontent.com/GingerBread-m4n/bypassnro/main/bypass.cmd
 skip.cmd
 ```
 
